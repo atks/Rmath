@@ -35,7 +35,7 @@
 #endif
 
 /*-- Mathlib as part of R --  define this for standalone : */
-#ifndef MATHLIB_STANDALONE 
+#ifndef MATHLIB_STANDALONE
 #define MATHLIB_STANDALONE
 #endif
 
