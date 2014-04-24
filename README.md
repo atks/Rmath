@@ -1,4 +1,4 @@
 Rmath
 =====
 
-Statistical Distributions from R
+The Rmath library from R
